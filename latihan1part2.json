@@ -1,0 +1,137 @@
+[
+    {
+        "dosen" : [
+            {"nama":" Nama Dosen : Danny Indra Gunawan",
+                "mahasiswa1":[
+                    {"data":"Nama  : JJxvrby"},
+                    {"data":"Nim   : 64347"},
+                    {"data":"Umur  : 21"},
+                    {"data":"Email : Jjxvrby12@gmail.com"}
+                ],
+                "mahasiswa2":[
+                    {"data":"Nama  : Rubby"},
+                    {"data":"Nim   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Rubbycandy@gmail.com"}
+                ],
+                "mahasiswa3":[
+                    {"data":"Nama  : Chelsea"},
+                    {"data":"Nim   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Chelseavrby@gmail.com"}
+                ],
+                "mahasiswa4":[
+                    {"data":"Nama  : Siska"},
+                    {"data":"Nim   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Siskaagatha@gmail.com"}
+                ],
+                "mahasiswa5":[
+                    {"data":"Nama  : Lavender"},
+                    {"data":"Nis   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Bungalavender@gmail.com"}
+                ]
+            },
+
+            {"nama":"Nama Dosen : Muhammad Sabar",
+                "mahasiswa1":[
+                    {"data":"Nama  : Rakata"},
+                    {"data":"Nim   : 28373"},
+                    {"data":"Umur  : 20"},
+                    {"data":"Email : Rakatadesu@gmail.com"}
+                ],
+                "mahasiswa2":[
+                    {"data":"Nama  : Betogranta"},
+                    {"data":"Nim   : 62742"},
+                    {"data":"Umur  : 23"},
+                    {"data":"Email : Betograntara@gmail.com"}
+                ],
+                "mahasiswa3":[
+                    {"data":"Nama  : Alaska"},
+                    {"data":"Nim   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Telukalaska@gmail.com"}
+                ],
+                "mahasiswa4":[
+                    {"data":"Nama  : Dirga"},
+                    {"data":"Nim   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Dirgantara16@gmail.com"}
+                ],
+                "mahasiswa5":[
+                    {"data":"Nama  : Galaxsi"},
+                    {"data":"Nim   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Bintanggalaxsi@gmail.com"}
+                ]
+            },
+
+            {"nama":"Tarsinah Sumarni",
+                "mahasiswa1":[
+                    {"data":"Nama  : Aldebaran"},
+                    {"data":"Nim   : 78568"},
+                    {"data":"Umur  : 19"},
+                    {"data":"Email : Aldebaransksk6@gmail.com"}
+                ],
+                "mahasiswa2":[
+                    {"data":"Nama  : Claudia"},
+                    {"data":"Nim   : 64381"},
+                    {"data":"Umur  : 20"},
+                    {"data":"Email : Claudiaseptia@gmail.com"}
+                ],
+                "mahasiswa3":[
+                    {"data":"Nama  : Levi"},
+                    {"data":"Nim   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Leviackrm@gmail.com"}
+                ],
+                "mahasiswa4":[
+                    {"data":"Nama  : Mikasa"},
+                    {"data":"Nim   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Mikasaxvrby@gmail.com"}
+                ],
+                "mahasiswa5":[
+                    {"data":"Nama  : Shasa"},
+                    {"data":"Nim   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Shasakentang@gmail.com"}
+                ]
+            },
+
+            {"nama":"Nama Dosen : Saepudin",
+                "mahasiswa1":[
+                    {"data":"Nama  : Arga"},
+                    {"data":"Nim   : 32321"},
+                    {"data":"Umur  : 19"},
+                    {"data":"Email : Argasamsudin@gmail.com"}
+                ],
+                "mahasiswa2":[
+                    {"data":"Nama  : Laskar"},
+                    {"data":"Nim   : 72742"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : laskargalxsi@gmail.com"}
+                ],
+                "mahasiswa3":[
+                    {"data":"Nama  : Sehun"},
+                    {"data":"Nim   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Ohsehunxzkth@gmail.com"}
+                ],
+                "mahasiswa4":[
+                    {"data":"Nama  : Jaehyun"},
+                    {"data":"Nim   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Jaehyunxzgh@gmail.com"}
+                ],
+                "mahasiswa5":[
+                    {"data":"Nama  : Daniel"},
+                    {"data":"Nim   : 47823"},
+                    {"data":"Umur  : 22"},
+                    {"data":"Email : Danieldrght@gmail.com"}
+                ]
+            }
+        ]
+    }
+]
